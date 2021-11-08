@@ -1,0 +1,33 @@
+/*********custom helper classes************ */
+
+.no-list-style {
+  list-style: none;
+}
+/*********custom helper classes************ */
+.admin-sidebar {
+  position: absolute;
+  top: 5%;
+  width: 20%;
+}
+
+.hand-pointer {
+  cursor: pointer;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.tablehead{
+  background: #3f51b5 !important;
+}
+
+.tablehead .tableCell{
+  color: white !important;
+}
